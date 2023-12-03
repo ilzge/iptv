@@ -101,20 +101,20 @@ CGTN记录,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/32212256
 
 北京频道,#genre#
 BTV1卫视高清,https://iptv.luas.edu.cn/liverespath/f6555824f9b96b7f0adabeadabbcca1eb143af34/5f5a3cbb61-0-0-838bd57faade015e202df7459a529e24/index.m3u8
-BTV2文艺高清，https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/61038304ea-0-0-0f7e79b7ee53058731a245c67b9dc5da/index.m3u8
+BTV2文艺高清,https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/61038304ea-0-0-0f7e79b7ee53058731a245c67b9dc5da/index.m3u8
 BTV4影视高清，https://iptv.luas.edu.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/45e971be3b-0-0-42a3a028cd2a8e1136234d58cad05d4c/index.m3u8
-BTV9新闻高清，https://iptv.luas.edu.cn/liverespath/e0f83dca54734aea4920c0125111c84859d2a012/42b21f7e49-0-0-59671bdd0f91a65f0e911655c2062a27/index.m3u8
-BTV11冬奥纪实高清，https://iptv.luas.edu.cn/liverespath/9535e4def9ec36aaf65f8f87a8af664b81f4bf23/21448b62da-0-0-62c70cdb92231fd93fda89fe5e0db596/index.m3u8
-BTV1北京卫视，https://iptv.luas.edu.cn/liverespath/072eeaf7c449c6f6af5847c4e882126c51331c72/5a5e688445-0-0-01ce0c2998127490ff3507b734294681/index.m3u8
-BTV2文艺，https://iptv.luas.edu.cn/liverespath/d733639566a36d59f45cfa348b5807b7d94b02a1/18616f2d0e-0-0-5b6d7d297c883628e795384474a8dcf7/index.m3u8
-BTV3科教，https://iptv.luas.edu.cn/liverespath/72e61aa5ca26beb9dd17a950d2a8c6171a5cd998/9f3da19ca2-0-0-bbce78ec74dc06feb6a5ea5172044996/index.m3u8
-BTV4影视，https://iptv.luas.edu.cn/liverespath/81c76654ab5e6ce4d49c97b9eeccebcf3f579c01/02b9b0dfca-0-0-6091e030528edec35b8aebc78d55ec99/index.m3u8
-BTV5财经，https://iptv.luas.edu.cn/liverespath/da4b2d170d47e48cfd4dcd6db27b7088a876aa30/3bc4b656af-0-0-61d30db411d0d694f9f0d4261de35502/index.m3u8
-BTV7生活，https://iptv.luas.edu.cn/liverespath/89ed1379f4c4cc9a436aacabc882365f512a7595/6ae1aa73a9-0-0-1acc074663afccf63a20a332d4699ce7/index.m3u8
-BTV8青年，
-BTV9新闻，https://iptv.luas.edu.cn/liverespath/b19542a8760e5fc0346098925cbafdd9e23395f4/6d1c6a154d-0-0-6819153ba42a082d5d768be3890a46a3/index.m3u8
-BTV10 Kaku少儿，https://iptv.luas.edu.cn/liverespath/b928229e615248d7a2c6f9ea047f25cf37a3a0af/981a6dcb31-0-0-950bb62e56e894f055ec122dacf66f5e/index.m3u8
-BTV11冬奥纪实，https://iptv.luas.edu.cn/liverespath/f837576f59a881e17cdd29040feea764e8c6dfd0/c14fa8aaea-0-0-be081c79da7bc058b37b36caf99451e0/index.m3u8
+BTV9新闻高清,https://iptv.luas.edu.cn/liverespath/e0f83dca54734aea4920c0125111c84859d2a012/42b21f7e49-0-0-59671bdd0f91a65f0e911655c2062a27/index.m3u8
+BTV11冬奥纪实高清,https://iptv.luas.edu.cn/liverespath/9535e4def9ec36aaf65f8f87a8af664b81f4bf23/21448b62da-0-0-62c70cdb92231fd93fda89fe5e0db596/index.m3u8
+BTV1北京卫视,https://iptv.luas.edu.cn/liverespath/072eeaf7c449c6f6af5847c4e882126c51331c72/5a5e688445-0-0-01ce0c2998127490ff3507b734294681/index.m3u8
+BTV2文艺,https://iptv.luas.edu.cn/liverespath/d733639566a36d59f45cfa348b5807b7d94b02a1/18616f2d0e-0-0-5b6d7d297c883628e795384474a8dcf7/index.m3u8
+BTV3科教,https://iptv.luas.edu.cn/liverespath/72e61aa5ca26beb9dd17a950d2a8c6171a5cd998/9f3da19ca2-0-0-bbce78ec74dc06feb6a5ea5172044996/index.m3u8
+BTV4影视,https://iptv.luas.edu.cn/liverespath/81c76654ab5e6ce4d49c97b9eeccebcf3f579c01/02b9b0dfca-0-0-6091e030528edec35b8aebc78d55ec99/index.m3u8
+BTV5财经,https://iptv.luas.edu.cn/liverespath/da4b2d170d47e48cfd4dcd6db27b7088a876aa30/3bc4b656af-0-0-61d30db411d0d694f9f0d4261de35502/index.m3u8
+BTV7生活,https://iptv.luas.edu.cn/liverespath/89ed1379f4c4cc9a436aacabc882365f512a7595/6ae1aa73a9-0-0-1acc074663afccf63a20a332d4699ce7/index.m3u8
+BTV8青年,https://iptv.luas.edu.cn/liverespath/7d476b1bc4c2e717f2525a35e31faf071f648faf/60643283ec-0-0-dc02a027e4e4e4472c49cea93e406ace/index.m3u8
+BTV9新闻,https://iptv.luas.edu.cn/liverespath/b19542a8760e5fc0346098925cbafdd9e23395f4/6d1c6a154d-0-0-6819153ba42a082d5d768be3890a46a3/index.m3u8
+BTV10 Kaku少儿,https://iptv.luas.edu.cn/liverespath/b928229e615248d7a2c6f9ea047f25cf37a3a0af/981a6dcb31-0-0-950bb62e56e894f055ec122dacf66f5e/index.m3u8
+BTV11冬奥纪实,https://iptv.luas.edu.cn/liverespath/f837576f59a881e17cdd29040feea764e8c6dfd0/c14fa8aaea-0-0-be081c79da7bc058b37b36caf99451e0/index.m3u8
 
 央视,#genre#
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8
